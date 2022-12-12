@@ -3,4 +3,4 @@ Algorithme Génétique simple (Simple AG):  créer une population de n=15 indivi
 ---
 
 Le projet se compose par:
-* [__AG.ipynb__](AG) - le code source
+* [__AG__](AG.ipynb) - le code source
